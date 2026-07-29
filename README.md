@@ -24,3 +24,4 @@ Working as a Software Development Intern at Vizyoneks Bilgi Teknolojileri, devel
 </p>
 
 LinkedIn: https://www.linkedin.com/in/hamdiberatkoybasi/
+![snake gif](https://github.com/Beratkybs/Beratkybs/blob/output/github-contribution-grid-snake.gif)
