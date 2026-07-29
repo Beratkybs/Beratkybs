@@ -1,10 +1,8 @@
 # Hamdi Berat Köybaşı
 
-Software Engineering student focused on backend development with .NET and Java Spring.
+Software Engineering student with a focus on backend development, currently working with .NET and learning Java Spring.
 
-Currently working as a Software Development Intern at Vizyoneks Bilgi Teknolojileri, developing with ASP.NET Core. Also building my skills in Java Spring and backend system design.
-
-LinkedIn: https://www.linkedin.com/in/hamdiberatkoybasi/
+Working as a Software Development Intern at Vizyoneks Bilgi Teknolojileri, developing with ASP.NET Core. Also building my skills in Java Spring and backend system design.
 
 ## Tech Stack
 
@@ -25,13 +23,4 @@ LinkedIn: https://www.linkedin.com/in/hamdiberatkoybasi/
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-## GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Beratkybs&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beratkybs&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Beratkybs&hide_border=true" alt="GitHub Streak" />
-</p>
+LinkedIn: https://www.linkedin.com/in/hamdiberatkoybasi/
